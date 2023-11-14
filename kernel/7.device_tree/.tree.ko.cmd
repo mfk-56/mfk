@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux/kernel/device_tree/tree.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux/kernel/device_tree/tree.ko /mnt/hgfs/Linux/kernel/device_tree/tree.o /mnt/hgfs/Linux/kernel/device_tree/tree.mod.o

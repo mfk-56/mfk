@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux/kernel/beep/beep.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux/kernel/beep/beep.ko /mnt/hgfs/Linux/kernel/beep/beep.o /mnt/hgfs/Linux/kernel/beep/beep.mod.o

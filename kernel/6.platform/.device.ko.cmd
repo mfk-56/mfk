@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux/kernel/platform/device.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux/kernel/platform/device.ko /mnt/hgfs/Linux/kernel/platform/device.o /mnt/hgfs/Linux/kernel/platform/device.mod.o

@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux/kernel/multi-device/multi-device.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux/kernel/multi-device/multi-device.ko /mnt/hgfs/Linux/kernel/multi-device/multi-device.o /mnt/hgfs/Linux/kernel/multi-device/multi-device.mod.o

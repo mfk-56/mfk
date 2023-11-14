@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux/kernel/platform/driver.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux/kernel/platform/driver.ko /mnt/hgfs/Linux/kernel/platform/driver.o /mnt/hgfs/Linux/kernel/platform/driver.mod.o

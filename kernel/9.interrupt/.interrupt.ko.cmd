@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux/kernel/9.interrupt/interrupt.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux/kernel/9.interrupt/interrupt.ko /mnt/hgfs/Linux/kernel/9.interrupt/interrupt.o /mnt/hgfs/Linux/kernel/9.interrupt/interrupt.mod.o

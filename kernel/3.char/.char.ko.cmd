@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux/kernel/char/char.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux/kernel/char/char.ko /mnt/hgfs/Linux/kernel/char/char.o /mnt/hgfs/Linux/kernel/char/char.mod.o

@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux/kernel/timer/timer.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux/kernel/timer/timer.ko /mnt/hgfs/Linux/kernel/timer/timer.o /mnt/hgfs/Linux/kernel/timer/timer.mod.o

@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux/kernel/11.key_time/key_time.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux/kernel/11.key_time/key_time.ko /mnt/hgfs/Linux/kernel/11.key_time/key_time.o /mnt/hgfs/Linux/kernel/11.key_time/key_time.mod.o
